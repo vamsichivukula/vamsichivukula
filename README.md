@@ -19,4 +19,4 @@
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/><br />
 
 ## Stats
-[![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
