@@ -31,6 +31,7 @@
 </div>
 
 <div>
+    <h2>Stats</h2>
     <a href="https://github.com/vamsichivukula">
         <img src="https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars&show_icons=true&theme=tokyonight&bg_color=00000000" alt="Vamsi&#39;s GitHub stats">
     </a>
