@@ -30,10 +30,14 @@
     <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/><br />
 </div>
 
-<div>
+<!-- <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars&theme=monokai&bg_color=00000000)" alt="Vamsi's GitHub stats">
     </a>
-</div>
+</div> -->
 
-<p><a href="https://github.com/vamsichivukula"><img src="https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars" alt="Vamsi&#39;s GitHub stats"></a></p>
+<p>
+    <a href="https://github.com/vamsichivukula">
+        <img src="https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars" alt="Vamsi&#39;s GitHub stats">
+    </a>
+</p>
