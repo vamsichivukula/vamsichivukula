@@ -35,9 +35,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars&theme=monokai&bg_color=00000000)" alt="Vamsi's GitHub stats">
     </a>
 </div> -->
-
-<p>
+<div>
     <a href="https://github.com/vamsichivukula">
         <img src="https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars" alt="Vamsi&#39;s GitHub stats">
     </a>
-</p>
+</div>
