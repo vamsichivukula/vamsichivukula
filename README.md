@@ -36,4 +36,4 @@
     </a>
 </div>
 
-<p><a href="https://github.com/vamsichivukula"><img src="https://github-readme-stats.vercel.app/api?username=vamsichivukula" alt="Vamsi&#39;s GitHub stats"></a></p>
+<p><a href="https://github.com/vamsichivukula"><img src="https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars" alt="Vamsi&#39;s GitHub stats"></a></p>
