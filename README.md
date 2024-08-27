@@ -31,4 +31,4 @@
 </div>
 
 ## Stats
-[![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars&theme=monokai&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
