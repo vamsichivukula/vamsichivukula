@@ -35,3 +35,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=vamsichivukula&hide=stars&theme=monokai&bg_color=00000000)" alt="Vamsi's GitHub stats">
     </a>
 </div>
+
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="Anurag&#39;s GitHub stats"></a></p>
