@@ -1,7 +1,7 @@
 <h1>Vamsi Chivukula 🪷</h1>
 
 <div>
-    🌩️ I am a Cloud Engineer who is passionate about building cloud-native applications
+    🌩️ I am a Cloud Engineer who is passionate about building cloud-native applications<br />
     ✂️ In addtion to building cloud-native applications, I love to work on anything that I find interesting - checkout my work <a href="https://github.com/vamsichivukula?tab=repositories">here</a><br/>
     🙇‍♂️ I am currently learning web development in JavaScript and related technologies<br/>
     🎯 In my spare time, I am working on building my online presence - please visit my <a>website here</a><br />
