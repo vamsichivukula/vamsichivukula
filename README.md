@@ -9,6 +9,7 @@
 
 <div id="languages">
     <h2>Tech Stack</h2>
+    <!-- Source: https://github.com/Ileriayo/markdown-badges -->
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="padding-right: 10px" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="padding-right: 10px" style="padding-right: 10px" alt="CSS3">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="padding-right: 10px"alt="JavaScript">
