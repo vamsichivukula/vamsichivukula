@@ -1,7 +1,8 @@
 <h1>Vamsi Chivukula 🪷</h1>
 
 <div>
-    🌩️ I am a Cloud Engineer who is passionate about building cloud-native applications - checkout my work <a href="https://github.com/vamsichivukula?tab=repositories">here</a><br/>
+    🌩️ I am a Cloud Engineer who is passionate about building cloud-native applications
+    ✂️ In addtion to building cloud-native applications, I love to work on anything that I find interesting - checkout my work <a href="https://github.com/vamsichivukula?tab=repositories">here</a><br/>
     🙇‍♂️ I am currently learning web development in JavaScript and related technologies<br/>
     🎯 In my spare time, I am working on building my online presence - please visit my <a>website here</a><br />
 </div>
@@ -30,7 +31,6 @@
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" style="padding-right: 10px" alt="Terraform">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&amp;logo=firebase" style="padding-right: 10px" alt="Firebase">
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" style="padding-right: 10px" alt="GitHub Actions">
-    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" style="padding-right: 10px" alt="Jenkins">
 </div>
 
 <!-- <div>
