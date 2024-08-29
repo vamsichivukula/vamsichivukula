@@ -6,11 +6,32 @@
     🎯 Working on building my own website and online presence in my spare time<br />
 </div>
 
-<div>
+<div id="languages">
     <h2>Tech Stack</h2>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="padding-right: 10px" alt="HTML5">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="padding-right: 10px" alt="CSS3">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="padding-right: 10px" style="padding-right: 10px" alt="CSS3">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="padding-right: 10px"alt="JavaScript">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" style="padding-right: 10px" alt="Python">
+    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" style="padding-right: 10px" alt="PowerShell">
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" style="padding-right: 10px" alt="Shell Script">
+</div>
+<div id="frameworks">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="padding-right: 10px" alt="TypeScript">
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="padding-right: 10px" alt="NPM">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="padding-right: 10px" alt="React">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="padding-right: 10px" alt="NodeJS">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" style="padding-right: 10px" alt="Express.js">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="padding-right: 10px" alt="MongoDB">
 
+</div>
+<div id="infra">
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" style="padding-right: 10px" alt="Kubernetes">
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" style="padding-right: 10px" alt="Azure">
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" style="padding-right: 10px" alt="Google Cloud">
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" style="padding-right: 10px" alt="Terraform">
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&amp;logo=firebase" style="padding-right: 10px" alt="Firebase">
+    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" style="padding-right: 10px" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" style="padding-right: 10px" alt="Jenkins">
 </div>
 
 <!-- <div>
