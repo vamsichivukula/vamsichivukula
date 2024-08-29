@@ -1,9 +1,9 @@
 <h1>Vamsi Chivukula 🪷</h1>
 
 <div>
-    🌩️ Cloud Engineer passionate about building cloud-native applications<br/>
-    🙇‍♂️ Currently learning web development<br/>
-    🎯 Working on building my own website and online presence in my spare time<br />
+    🌩️ I am a Cloud Engineer who is passionate about building cloud-native applications - you can follow my work in the repos below<br/>
+    🙇‍♂️ I am currently learning web development in JavaScript and related technologies<br/>
+    🎯 In my spare time, I am working on building my online presence - please visit my <a>website here</a><br />
 </div>
 
 <div id="languages">
@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="padding-right: 10px" alt="NodeJS">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" style="padding-right: 10px" alt="Express.js">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="padding-right: 10px" alt="MongoDB">
-
 </div>
 <div id="infra">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" style="padding-right: 10px" alt="Kubernetes">
